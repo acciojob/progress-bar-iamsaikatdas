@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.cirles{
+	display: flex;
+	border:1px solid red;
+	align-items: center;
+	justify-content:center;
+}
+.circle{
+	width: 20px;
+	height:20px;
+	border: 2px solid gray;
+	border-radius:50%
+	margin-right: px;
+}
